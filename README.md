@@ -1,6 +1,6 @@
 
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=949&color=004CB8&vCenter=true&multiline=true&width=435&height=71&lines=Ol%C3%A1%2C+Me+chamo+Italo%2C+sou+estudante+de+An%C3%A1lise+e;Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=949&color=004CB8&vCenter=true&multiline=true&width=435&height=71&lines=Ol%C3%A1%2C+Me+chamo+Italo%2C+sou+estudante+de+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" /></a>
 <hr>                    
 
 <a href="https://github.com/euoitalo">
