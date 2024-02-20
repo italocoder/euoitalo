@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euoitalo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <hr>
 
-### <b> Estou aprendendo </b> <p>
+### <b>Aprendendo<b><p>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="40" height="40"/>
