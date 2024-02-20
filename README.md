@@ -9,8 +9,9 @@
 
 ### <b> Estou aprendendo </b> <p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40"/>
 <hr>
 
 ### <b> Contatos </b> <br>
